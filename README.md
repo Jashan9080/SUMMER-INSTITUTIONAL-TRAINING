@@ -1,6 +1,7 @@
 # SUMMER-INSTITUTIONAL-TRAINING
 # DAY 1
-## 
+## ORIENTATION IN AUDITORIUM FOR CSE students
+Our group G-10 was alloted the timings 12:30-1:30 pm for the orinentation before our institutional training begins.Starting the orientation our 
 ## INTRODUCTION
 Good Afternoon everyone, My name is Jashanpreet Singh Chawla, 19, currently pursuing Computer Science Engineering at Guru Nanak Dev Engineering College Ludhiana.
 ## HACKATHONS
