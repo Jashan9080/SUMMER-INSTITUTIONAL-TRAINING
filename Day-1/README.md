@@ -1,4 +1,6 @@
 # DAY-1
+## Date
+01 July 2026
 ## Overview
 The first day of the Summer Institutional Training began with an orientation session conducted by senior students, the Training Coordinator, the Head of Department (HOD), and faculty members. During the session, students were introduced to the objectives of the training, industry expectations, career opportunities, GitHub usage, Linux, and various technologies that are important for Computer Science students.
 ## ORIENTATION IN AUDITORIUM FOR CSE students
