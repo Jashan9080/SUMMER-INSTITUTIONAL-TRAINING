@@ -29,3 +29,6 @@ I sincerely thank the faculty members, Training Coordinator, HOD, senior student
 B.Tech Computer Science & Engineering
 
 Guru Nanak Dev Engineering College, Ludhiana
+## Daily Progress
+- [Day 1](Day-1/README.md)
+- [Day 2](Day-2/README.md)
