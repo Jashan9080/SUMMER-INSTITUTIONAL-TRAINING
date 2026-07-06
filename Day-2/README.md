@@ -63,6 +63,6 @@ By the end of Day 2, I learned:
 - Difference between Shell and Bash.
 - Basic file permissions and ownership commands.
 
-# ✅ Conclusion
+### Conclusion
 
 Day 2 provided hands-on experience with Linux fundamentals and command-line operations. I understood how Linux works through the Terminal, practiced essential commands and completed both the practical and assignment tasks related to Linux basics.
