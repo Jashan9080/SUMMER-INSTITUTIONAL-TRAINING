@@ -1,9 +1,9 @@
 #  Day 2 
 Linux Basics, Bash Essentials and Command Line
-## SL-IV LAB
-I went too SL lab at 12:30 pm to attend my day 2 of institutional training in computer science department.
 ##  Date
 02 July 2026
+## SL-IV LAB
+I went too SL lab at 12:30 pm to attend my day 2 of institutional training in computer science department.
 ## Objective
 The objective of Day 2 was to understand the basics of Linux Operating System, Bash Shell, Linux command line interface and to perform basic file
 and directory operations.
