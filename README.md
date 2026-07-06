@@ -16,6 +16,7 @@ I am passionate about software development, Artificial Intelligence, Web Develop
 - Learn Version Control
 - Improve Technical Skills
 - Build Professional Documentation
+- Learn PC troubleshooting and networking
 ## Learning Outcomes
 Through this training I aim to:
 - Improve technical knowledge.
