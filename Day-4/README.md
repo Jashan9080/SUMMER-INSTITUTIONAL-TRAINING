@@ -7,13 +7,13 @@ SL-4 LAB
 #### Objective
 The objective of today's training was to understand the fundamentals of PC troubleshooting and computer networking. The session focused on identifying common computer boot problems, learning troubleshooting techniques, diagnosing hardware failures.
 #### Topics Covered
-###### 1. Introduction to PC Troubleshooting
+##### 1. Introduction to PC Troubleshooting
 PC troubleshooting is the process of identifying, diagnosing, and resolving hardware and software problems in a computer system. We learned how to approach computer issues systematically and identify the root cause before applying a solution.
 ###### Learning Outcomes
 - Understanding the troubleshooting process.
 - Identifying common hardware and software issues.
 - Applying logical problem-solving techniques.
-###### 2. Common PC Boot Issues
+##### 2. Common PC Boot Issues
 We studied the most common problems that prevent a computer from starting properly.
 ###### Boot Issues Covered
 - Power Failure
@@ -30,7 +30,7 @@ We studied the most common problems that prevent a computer from starting proper
 - Understanding different boot problems.
 - Identifying symptoms of startup failures.
 - Learning possible causes of boot issues.
-###### 3. Solutions for Common Boot Issues
+##### 3. Solutions for Common Boot Issues
 We learned different troubleshooting methods to solve boot-related problems.
 ##### Solutions Learned
 - Checking power supply and cables.
@@ -47,7 +47,7 @@ We learned different troubleshooting methods to solve boot-related problems.
 - Systematic troubleshooting.
 - Hardware inspection techniques.
 - Basic recovery method.
-###### 4. Diagnosing Hardware Failures
+##### 4. Diagnosing Hardware Failures
 We learned how to identify faulty computer components by observing their symptoms.
 ###### RAM
 ###### Symptoms
