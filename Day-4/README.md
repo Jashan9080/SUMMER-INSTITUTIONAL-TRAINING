@@ -1,5 +1,7 @@
 # DAY-4
 PC Troubleshooting and networking
+## Date
+06
 ### Department
 Computer Science & Engineering (CSE)
 SL-4 LAB
