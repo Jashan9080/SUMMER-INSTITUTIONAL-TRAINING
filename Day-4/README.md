@@ -9,7 +9,7 @@ The objective of today's training was to understand the fundamentals of PC troub
 #### Topics Covered
 ###### 1. Introduction to PC Troubleshooting
 PC troubleshooting is the process of identifying, diagnosing, and resolving hardware and software problems in a computer system. We learned how to approach computer issues systematically and identify the root cause before applying a solution.
-####### Learning Outcomes
+###### Learning Outcomes
 - Understanding the troubleshooting process.
 - Identifying common hardware and software issues.
 - Applying logical problem-solving techniques.
@@ -26,13 +26,13 @@ We studied the most common problems that prevent a computer from starting proper
 - Blue Screen of Death (BSOD)
 - Overheating
 - Malware or Virus Attack
-####### Learning Outcomes
+###### Learning Outcomes
 - Understanding different boot problems.
 - Identifying symptoms of startup failures.
 - Learning possible causes of boot issues.
 ###### 3. Solutions for Common Boot Issues
 We learned different troubleshooting methods to solve boot-related problems.
-### Solutions Learned
+##### Solutions Learned
 - Checking power supply and cables.
 - Verifying BIOS/UEFI boot order.
 - Repairing the operating system.
@@ -43,41 +43,41 @@ We learned different troubleshooting methods to solve boot-related problems.
 - Updating drivers.
 - Preventing overheating.
 - Scanning the system for malware.
-####### Learning Outcomes
+###### Learning Outcomes
 - Systematic troubleshooting.
 - Hardware inspection techniques.
 - Basic recovery method.
 ###### 4. Diagnosing Hardware Failures
 We learned how to identify faulty computer components by observing their symptoms.
-####### RAM
-######## Symptoms
+###### RAM
+###### Symptoms
 - Blue Screen of Death (BSOD)
 - Frequent system crashes
 - Automatic restart
 - Continuous beep sounds
 - Slow system performance
-####### HDD (Hard Disk Drive)
-######## Symptoms
+###### HDD (Hard Disk Drive)
+###### Symptoms
 - Slow boot process
 - Clicking noises
 - File corruption
 - Disk read errors
 - Boot device not found
-####### GPU (Graphics Processing Unit)
-######## Symptoms
+###### GPU (Graphics Processing Unit)
+###### Symptoms
 - Black screen
 - Display flickering
 - Graphic artifacts
 - Game crashes
 - GPU overheating
-####### PSU (Power Supply Unit)
-######## Symptoms
+###### PSU (Power Supply Unit)
+###### Symptoms
 - Computer not powering on
 - Random shutdowns
 - Burning smell
 - Restart under heavy load
 - No display due to insufficient power
-######## Learning Outcomes
+###### Learning Outcomes
 - Identifying faulty hardware.
 - Understanding component failures.
 - Basic hardware diagnosis.
@@ -90,5 +90,5 @@ By the end of Day 4, I learned:
 - Solutions for startup failures.
 - Diagnosis of RAM, HDD, GPU and PSU failures.
 
-####### Conclusion
+##### Conclusion
 Today's training session in the **Computer Science & Engineering Department (SL-4 Lab)** was highly informative and practical. I gained valuable knowledge about diagnosing common computer problems, understanding hardware failures, and learning the basic concepts of networking. The session improved my troubleshooting skills and gave me confidence in identifying real-world PC issues. It was a productive and enjoyable learning experience that will help me in future technical studies and practical work.
