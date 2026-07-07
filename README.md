@@ -6,7 +6,7 @@ Name: Jashanpreet Singh Chawla
 URN:2514775
 Course: Bachelor of Technology (B.Tech)
 Branch: Computer Science and Engineering (CSE)
-College: Guru Nanak Dev Engineering College, Ludhiana
+College: Guru Nanak Dev Engineering College, Ludhiana.
 I am passionate about software development, Artificial Intelligence, Web Development, Open Source, Problem Solving and emerging technologies. This repository documents my learning journey throughout the institutional training.
 ## Objectives of Training
 - Learn Linux Operating System
