@@ -1,11 +1,10 @@
 # DAY-4
 PC Troubleshooting and networking
 ## Date
-06
+06 July 2026
 ### Department
 Computer Science & Engineering (CSE)
 SL-4 LAB
-
 #### Objective
 The objective of today's training was to understand the fundamentals of PC troubleshooting and computer networking. The session focused on identifying common computer boot problems, learning troubleshooting techniques, diagnosing hardware failures.
 #### Topics Covered
