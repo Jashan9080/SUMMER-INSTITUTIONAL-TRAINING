@@ -1,7 +1,7 @@
 # SUMMER-INSTITUTIONAL-TRAINING
 ## INTRODUCTION
 Good Afternoon everyone, My name is Jashanpreet Singh Chawla, 19, currently pursuing Computer Science Engineering at Guru Nanak Dev Engineering College Ludhiana.I'm seeking opportunities to gain practical experience, contribute to real-world projects, and expand my technical expertise through my **Summer Institutional Training** while collaborating with experienced developers.
-## About ME
+## About me
 Name: Jashanpreet Singh Chawla,
 URN:2514775,
 Course: Bachelor of Technology (B.Tech),
