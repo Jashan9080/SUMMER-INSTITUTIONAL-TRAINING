@@ -57,5 +57,23 @@ A faculty member explained the internal components of the **System Unit (CPU Cab
 - Data flow inside the computer.
 - Purpose of different cables and connectors.
 - Role of the motherboard in connecting all hardware components
-### 3. Practical File Completion
+### 3. Safe Mode in Windows
+We also learned about **Safe Mode** and its importance in troubleshooting Windows operating systems.
+### Topics Covered
+- What is Safe Mode?
+- Purpose of Safe Mode.
+- Different types of Safe Mode.
+- Situations where Safe Mode is used.
+- How Safe Mode helps in diagnosing software and driver-related problems.
+### Types of Safe Mode
+- Safe Mode
+- Safe Mode with Networking
+- Safe Mode with Command Prompt
+### Learning Outcomes
+- Understanding the purpose of Safe Mode.
+- Learning when to use Safe Mode during system failures.
+- Identifying software, driver, and startup issues using Safe Mode.
+- Performing basic troubleshooting in a minimal Windows environment.
+### 4. Practical File Completion
 During the remaining laboratory session, we completed the remaining practical file work and our rest of the pending work.
+
