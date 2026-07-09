@@ -26,9 +26,7 @@ Through this training I aim to:
 - Prepare for internships and placements.
 ## Acknowledgement
 I sincerely thank the faculty members, Training Coordinator, HOD, senior students and the Department of Computer Science & Engineering, GNDEC, for organizing this Summer Institutional Training and providing valuable learning opportunities.
-
 B.Tech Computer Science & Engineering
-
 Guru Nanak Dev Engineering College, Ludhiana
 ## Daily Progress
 - [Day 1](Day-1/README.md)
@@ -36,3 +34,4 @@ Guru Nanak Dev Engineering College, Ludhiana
 - [Day 3](Day-3/README.md)
 - [Day 4](Day-4/README.md)
 - [Day 5](Day-5/README.md)
+- [Day 6](Day-6/README.md)
