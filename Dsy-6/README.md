@@ -1,6 +1,6 @@
 #  Day 6 
 Networking Practical and Computer Hardware Exploration
-# Date
+## Date
 08 July 2026
 ## Department
 Computer Science & Engineering (CSE)
