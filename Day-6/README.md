@@ -1,4 +1,4 @@
-#  DAY 6 
+#  DAY-6 
 Networking Practical and Computer Hardware Exploration
 ## Date
 08 July 2026
