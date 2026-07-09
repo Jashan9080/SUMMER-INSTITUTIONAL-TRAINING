@@ -76,4 +76,5 @@ We also learned about **Safe Mode** and its importance in troubleshooting Window
 - Performing basic troubleshooting in a minimal Windows environment.
 ### 4. Practical File Completion
 During the remaining laboratory session, we completed the remaining practical file work and our rest of the pending work.
-
+### Conclusion
+Day 6 was an excellent combination of networking practicals, computer hardware exploration, operating system troubleshooting, and documentation work. I learned how to arrange Ethernet cables using the correct T568B colour standard, understood the internal components and working of a computer system, explored the purpose and uses of Windows Safe Mode, and completed the practical file in the laboratory. The session strengthened my understanding of networking, hardware, and troubleshooting concepts while providing valuable hands-on experience in the Computer Science & Engineering Department (SL-4 Lab)
