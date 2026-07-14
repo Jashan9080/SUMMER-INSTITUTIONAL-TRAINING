@@ -35,3 +35,4 @@ Guru Nanak Dev Engineering College, Ludhiana
 - [Day 4](Day-4/README.md)
 - [Day 5](Day-5/README.md)
 - [Day 6](Day-6/README.md)
+- [Day 7](Day-7/README.md)
