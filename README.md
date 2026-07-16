@@ -29,13 +29,13 @@ I sincerely thank the faculty members, Training Coordinator, HOD, senior student
 B.Tech Computer Science & Engineering
 Guru Nanak Dev Engineering College, Ludhiana
 ## Daily Progress
-- [Day 1](Day-1/README.md)
-- [Day 2](Day-2/README.md)
-- [Day 3](Day-3/README.md)
-- [Day 4](Day-4/README.md)
-- [Day 5](Day-5/README.md)
-- [Day 6](Day-6/README.md)
-- [Day 7](Day-7/README.md)
-- [Day 8](Day-8/README.md)
-- [Day 9](Day-9/README.md)
+- [Day 1](Day-01/README.md)
+- [Day 2](Day-02/README.md)
+- [Day 3](Day-03/README.md)
+- [Day 4](Day-04/README.md)
+- [Day 5](Day-05/README.md)
+- [Day 6](Day-06/README.md)
+- [Day 7](Day-07/README.md)
+- [Day 8](Day-08/README.md)
+- [Day 9](Day-09/README.md)
 - [Day 10](Day-10/README.md)
