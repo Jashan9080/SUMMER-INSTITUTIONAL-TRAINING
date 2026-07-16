@@ -204,4 +204,4 @@ Used to clear all entered information.
 - Built complete registration and reservation forms.
 - Improved understanding of creating interactive webpages using only HTML.
 ### Conclusion
-Day 12 focused on HTML Forms and user input. We learned how websites collect information from users using forms and practiced by creating two complete webpages—a **Music Festival Registration System** and a **Restaurant Reservation System**. This session improved our understanding of HTML form elements, input types, form attributes, and interactive webpage design.
+Day 11 focused on HTML Forms and user input. We learned how websites collect information from users using forms and practiced by creating two complete webpages—a **Music Festival Registration System** and a **Restaurant Reservation System**. This session improved our understanding of HTML form elements, input types, form attributes, and interactive webpage design.
