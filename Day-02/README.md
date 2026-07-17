@@ -1,4 +1,4 @@
-#  Day 2 
+#  DAY-2 
 Linux Basics, Bash Essentials and Command Line
 ##  Date
 02 July 2026
