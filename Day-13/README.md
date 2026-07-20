@@ -1,7 +1,7 @@
 # DAY-13 
 Git & GitHub Basics | Git Bash Commands
 ##  Date
-18 July 2026
+17 July 2026
 ### Objective
 The objective of today's training was to understand the fundamentals of **Git** and **GitHub**, learn the purpose of version control, configure Git using Git Bash, and perform basic repository operations using commonly used Git commands.
 ### Topics Covered
